@@ -1,0 +1,1 @@
+Stock market prediction with Keras. LSTM model, Apple stock, moving average method
